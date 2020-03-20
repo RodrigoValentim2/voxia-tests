@@ -1,0 +1,674 @@
+semafororo,localizacao1,localizacao2,bairro,latitude,longitude,tipo,funcionamento
+001,Av. Boa Viagem,Em frente ao parque Dona Lindú , Boa Viagem,-8.142323,-34.903798,E/Git,Ocasional/Ped.
+002,Av. Conselheiro Aguiar,Rua Thomé Gibson , Boa Viagem,-8.099068,-34.885883,E/Git,Veicular
+003,Av. Boa Viagem,Rua França Pereira, Boa Viagem,-8.106806,-34.887726,E/Git,Ocasional/Ped.
+004,Av. Boa Viagem,Rua Barão de Souza Leão , Boa Viagem,-8.132230,-34.899990,E/Git,Ocasional/Ped.
+005,Av. Conselheiro Aguiar,Rua Artur Muniz, Boa Viagem,-8.104310,-34.888228,E/Git,Veicular
+006,Av. Conselheiro Aguiar,Rua Antônio Falcão, Boa Viagem,-8.116171,-34.894686,E/Git,Veicular
+007,Av. Mascarenhas de Morais,Rua Jamaica,Imbiribeira,-8.107620,-34.911720,E/Git,Veicular
+008,Av. Caxangá,Rua Bom Pastor,Iputinga,-8.040820,-34.938494,E/Git,Veicular
+009,Av.Cruz Cabugá,Est BRT Casa da Misericórdia,Santo Amaro,-8.044224,-34.874595,E/Git,Pedestre
+010,II Perimetral,Av. Parnamirim,Parnamirim,-8.034731,-34.908303,E/Git,Veicular
+011,Rua Conselheiro Portela,Rua 48,Espinheiro,-8.041458,-34.893810,E/Git,Veicular
+012,Rua Barão da Vitória,Rua Floriano Peixoto,Santo Antonio ,-8.067321,-34.882931,E,Veic.C/Ped.Paral.
+013,Rua do Sol,Rua Nova,Santo Antonio ,-8.063874,-34.880922,E/Git,Veic.C/Ped.Ocas.
+014,Rua do Sol,Av. Guararapes,Santo Antonio ,-8.062706,-34.880416,E/Git,Veic.C/Ped.Paral.
+015,Av. Dantas Barreto,Av. Guararapes,Santo Antonio ,-8.063788,-34.878518,E/Git,Veic.C/Ped.Paral.
+016,Av. Recife,Rua São Nicolau,Vila do Ipsep,-8.106969,-34.927227,E/Git,Veicular
+017,Av. Nossa Senhora do Carmo,Rua Duque de Caxias,Santo Antonio ,-8.066200,-34.877317,E/Git,Pedestre
+018,Rua do Imperador,Rua 1º de Março,Santo Antonio ,-8.064191,-34.876823,E/Git,Veicular
+019,Av. Rio Branco,Cais do Apolo,Recife Antigo,-8.062391,-34.873830,E/Git,Veicular
+020,Av. Marquez de Olinda,Rua Madre de Deus,Recife Antigo,-8.063611,-34.873672,E/Git,Veicular
+021,Rua da Hora,Rua 48,Espinheiro,-8.042905,-34.891930,E/Git,Veicular
+022,Rua Princesa Isabel,Rua da Aurora,Boa Vista ,-8.059518,-34.879984,E/Git,Veic.C/Ped.Paral.
+023,Av. Conde da Boa Vista,Rua do Hospício,Boa Vista ,-8.060773,-34.884050,E/Git,Veic.C/Ped.
+024,Av. Conde da Boa Vista,Rua Gervásio Pires,Boa Vista ,-8.059567,-34.886443,E/Git,Veic.C/Ped.
+025,Av. Conde da Boa Vista,Rua da Soledade,Boa Vista ,-8.057554,-34.889962,E/Git,Veic.C/Ped.
+026,Estrada de Belém,Rua Odorico Mendes,Campo Grande,-8.032111,-34.881324,E,Veic.C/Ped.Ocas.
+027,Av. Conde da Boa Vista,Rua Dom Bosco,Boa Vista ,-8.055998,-34.895380,E/Git,Veicular
+028,Av. Manoel Borba,Rua Dom Bosco,Paissandu,-8.059392,-34.894050,E/Git,Veicular
+029,Av. Manoel Borba,Rua José de Alencar,Boa Vista,-8.060502,-34.888369,E/Git,Veicular
+030,Rua 13 de Maio,Rua Dos Palmares,Santo Amaro,-8.052560,-34.883697,E/Git,Veicular
+031,Rua do Hospício,Rua Princesa Isabel,Boa Vista,-8.057835,-34.882988,E/Git,Veic.C/Ped.Paral.
+032,Rua do Hospício,Av. Visc. De Suassuna,Santo Amaro,-8.055068,-34.882265,E/Git,Veic.C/Ped.
+033,Rua do Hospício,Rua da Matriz,Boa Vista,-8.062624,-34.885292,E/Git,Veicular
+034,Av. Norte Miguel Arraes de Alencar,Av. Cruz Cabugá,Santo Amaro,-8.047535,-34.876962,E/Git,Veicular
+035,Av. Dantas Barreto,Rua Imperial,São José,-8.072249,-34.884146,E/Git,Veicular
+036,Av. Norte Miguel Arraes de Alencar,Rua 13 de Maio,Santo Amaro,-8.045910,-34.879089,E/Git,Veicular
+037,Av. Gov. Agamenon Magalhães,Av. Rui Barbosa,Derby,-8.052422,-34.895758,E/Git,Veicular
+038,Av. Adv. José Paulo Cavalcanti,Ao lado do Fórum Joana Bezerra,ilha Joana Bezerra,-8.069418,-34.895270,E/Git,Veic.C/Laço Det.
+039,Rua Motocolombó,Rua Augusto Wanderley,Afogados,-8.082688,-34.906625,E/Git,Veicular
+040,Praça do Derby,Rua Jenner de Souza,Derby,-8.057073,-34.900077,E/Git,Veic.C/Ped.
+041,Rua do Príncipe,Rua Gervásio Pires,Boa Vista,-8.057352,-34.885062,E/Git,Veicular
+042,Av. Beberibe,Estrada de Belém ,Encruzilhada,-8.037235,-34.890996,E/Git,Veic.C/Ped.
+043,Av. Norte Miguel Arraes de Alencar,Av. João de Barros,Encruzilhada,-8.038574,-34.892000,E/Git,Veicular
+044,Av. Dr. José Rufino,Rua Ipojuca,Areias,-8.091724,-34.936071,E,Veicular
+045,Av. Norte Miguel Arraes de Alencar,Rua Fernando Cesar,Encruzilhada,-8.037027,-34.894343,E/Git,Veicular
+046,Av. Conselheiro Rosa e Silva,Rua Amélia,Graças,-8.045446,-34.897044,E/Git,Veicular
+047,Av. Conselheiro Rosa e Silva,Av. Santos Dumont,Rosarinho,-8.039569,-34.899387,E/Git,Veicular
+048,Av. Rui Barbosa,Rua Amélia,Graças,-8.045144,-34.902060,E/Git,Veicular
+049,Av. Gov. Agamenon Magalhães,Rua Odorico Mendes,Santo Amaro,-8.039799,-34.878830,E/Git,Veicular
+050,Rua José Osório,Rua Visconde de Albuquerque,Madalena,-8.053297,-34.906797,E/Git,Veic.C/Ped.
+051,Rua Benfica,Estrada dos Remédios,Madalena,-8.058197,-34.907149,E/Git,Veic.C/Ped.
+052,Av. Abdias de Carvalho,Estrada dos Remédios,Madalena,-8.061707,-34.907595,E/Git,Veicular
+053,Rua São Miguel,Estrada dos Remédios,Madalena,-8.080230,-34.906628,E/Git,Veic.C/Ped.Ocas.
+054,Av. Dantas Barreto,Rua São João,São José,-8.070171,-34.882313,E/Git,Veic.C/Ped.Paral.
+055,Av. Recife,Rua Pintor Antônio Albuquerque,Vila do Ipsep,-8.107911,-34.927095,E/Git,Veicular
+056,Av. Norte Miguel Arraes de Alencar,Rua Marquez do Paraná,Torreão,-8.039898,-34.887527,E/Git,Veicular
+057,Av. Abdias de Carvalho,Rua Carlos Gomes,Madalena,-8.062552,-34.913114,E/Git,Veicular
+058,Av. Abdias de Carvalho,Av. Gal. San Martin,Cordeiro,-8.060463,-34.925752,E/Git,Veicular
+059,Av. Recife,Rua Cap. Jacínto da Cruz,Vila Cardeal,-8.094007,-34.929048,E/Git,Veicular
+060,Rua Dr. Vincente Gomes,Rua Setubal,Boa Viagem,-8.133064,-34.901717,E/Git,Veicular
+061,Estrada do Arraial,Rua Cônego Barata,Tamarineira,-8.033199,-34.903538,E/Git,Veicular
+062,Av. Norte Miguel Arraes de Alencar,Rua Cônego Barata,Tamarineira,-8.029633,-34.900494,E/Git,Veicular
+063,Av. Beberibe,Rua Men de Sá,Ponto de Parada,-8.030124,-34.892476,E/Git,Veicular
+064,Av. Beberibe,Rua São Bento,Água Fria,-8.023192,-34.893899,E/Git,Veicular
+065,Av. Norte Miguel Arraes de Alencar,Rua Nova Descoberta,Nova Descoberta,-8.019908,-34.926677,E/Git,Veicular
+066,Av. Norte Miguel Arraes de Alencar,Rua Padre Lemos,Casa Amarela,-8.020799,-34.921718,E/Git,Veicular
+067,Av. Gal. San Martin,Rua Gomes Taborda,Cordeiro,-8.055486,-34.923966,E,Veic.C/Ped.
+068,Av. Gov. Agamenon Magalhães,Rua Henrique Dias,Derby,-8.058912,-34.897931,E/Git,Veicular
+069,Av. Gov. Agamenon Magalhães,Rua Paissandú,Derby,-8.062396,-34.897553,E/Git,Veic.C/Ped.Paral.
+070,Rua Jean Emile Favre,Rua Saturnino Meireles,Imbiribeira,-8.113264,-34.922089,E,Veicular
+071,Rua Joaquim Nabuco,Rua das Creoulas,Derby,-8.052473,-34.899471,E/Git,Veicular
+072,Av. Sul,Sob Viaduto de 5 Pontas,São José,-8.072364,-34.880475,E,Ocasional/Ped.
+073,Rua Nicolau Pereira ,Rua da Paz,Afogados ,-8.079545,-34.904337,E/Git,Veicular
+074,Estrada do Arraial,Rua da Harmonia,Casa Amarela,-8.027477,-34.913859,E/Git,Veic.C/Ped.
+075,Av. Gov. Agamenon Magalhães,Av. Carlos de Lima Cavalcante,Derby,-8.056709,-34.897924,E/Git,Veicular
+076,Cais de Santa Rita,Em frente ao Armazém 16,São José,-8.069600,-34.875396,E/Git,Veicular
+077,Av. Beira Rio,Prox. Ponte da Torre,Torre,-8.046546,-34.904220,E/Git,Ocasional/Ped.
+078,Av. Gov. Agamenon Magalhães,Rua Buenos Aires,Derby,-8.048678,-34.892940,E/Git,Veicular
+079,Av. Norte Miguel Arraes de Alencar,Rua Córrego do Bartolomeu,Casa Amarela,-8.024091,-34.911926,E/Git,Veicular
+080,Av. Caxangá,Av. Gal. San Martin,Cordeiro,-8.050447,-34.921077,E/Git,Veicular
+081,Av. Norte Miguel Arraes de Alencar,Av. Santos Dumont,Rosarinho,-8.033536,-34.896475,E/Git,Veicular
+082,Av. Dr. José Rufino,Rua João Teixeira,Estância,-8.084694,-34.928126,E/Git,Veic.C/Ped.Ocas.
+083,Av. Manoel Borba,Rua das Ninfas,Boa Vista,-8.059303,-34.891310,E/Git,Veicular
+084,Av. Boa Viagem,Av. Armindo Moura,Boa Viagem,-8.151128,-34.907787,E/Git,Veic.C/Ped.Paral.
+085,Av. Recife,Rua Cap. Estevão Fernandes,Vila Cardeal,-8.092779,-34.929265,E/Git,Ocasional/Ped.
+086,Rua Barão de Itamaracá,Rua do Espinheiro,Espinheiro,-8.043457,-34.893356,E/Git,Veicular
+087,Rua Imperial,Rua Lourenço de Sá,São José,-8.076207,-34.895181,E,Veicular
+088,Av. Maurício de Nassau,Rua Nossa Senhora da Saúde,Cordeiro,-8.040724,-34.927190,E,Veicular
+089,Av. João de Barros,Rua do Espinheiro,Espinheiro,-8.041333,-34.891432,E/Git,Veicular
+090,Rua da Aurora,Av. Mário Melo,Boa Vista,-8.056323,-34.877953,E,Veic.C/Ped.
+091,Rua Falcão de Lacerda,Em frente à Igreja de Tejipió,Tejipió,-8.093354,-34.963753,E,Ocasional/Ped.
+092,Rua do Hospício,Rua do Riachuelo,Boa Vista,-8.059149,-34.883491,E/Git,Veicular
+093,Rua Álvares de Azevedo,Rua Gouveia de Barros,Santo Amaro,-8.049570,-34.888670,E,Veicular
+094,Estrada de Belém,Rua Prudente de Moraes,Campo Grande,-8.032989,-34.884563,E,Veicular
+095,Av. Norte Miguel Arraes de Alencar,Largo D. Luiz,Casa Amarela,-8.021323,-34.917489,E/Git,Veicular
+096,Av. Norte Miguel Arraes de Alencar,Rua da Mangabeira,Mangabeira,-8.025589,-34.906581,E/Git,Veicular
+097,Av. Norte Miguel Arraes de Alencar,Em frente a Paróquia de São Sebastião,Santo Amaro,-8.043957,-34.882417,E/Git,Veic.C/Ped.Ocas.
+098,Av. Santos Dumont,Rua Dr. José Maria,Rosarinho,-8.035649,-34.897487,E/Git,Veicular
+099,Av. Cons. Rosa e Siva,Rua Barão de contendas,Aflitos,-8.041708,-34.898009,E/Git,Ocasional/Ped.
+100,Estrada Velha do Bongi,Rua Cosme Viana,Bongi,-8.068287,-34.909790,E,Veicular
+101,Rua Jean Emile Favre,Rua Blumenau,Ipsep,-8.109943,-34.918273,E,Veicular
+102,Av. Rui Barbosa,Rua das Creoulas,Graças,-8.049903,-34.898007,E/Git,Veicular
+103,Av. Antônio de Góis,Rua Manoel de Brito,Pina,-8.085444,-34.886685,E/Git,Veicular
+104,Av. Boa Viagem,Av. Herculano Bandeira,Pina,-8.091769,-34.882053,E/Git,Veic.C/Ped.Paral.
+105,Av. Boa Viagem,Rua Thomé Gibson,Boa Viagem,-8.099740,-34.884436,E/Git,Veic.C/Ped.Paral.
+106,Rua Real da Torre,Rua Conde de Irajá,Torre,-8.046317,-34.909548,E/Git,Veicular
+107,Av. 17 de Agosto,Estrada do Arraial,Casa Forte,-8.027788,-34.927156,E/Git,Veicular
+108,Av. Gov. Agamenon Magalhães,Em frente à DRT,Santo Amaro,-8.043536,-34.887514,E/Git,Ocasional/Ped.
+109,Av. Maurício de Nassau,Próx. Rua Santa Lúcia,Iputinga,-8.039282,-34.929594,E,Ocasional/Ped.
+110,Av. Boa Viagem,Rua Pereira da Costa,Pina,-8.095900,-34.883112,E/Git,Ocasional/Ped.
+111,Rua Itanagé,Rua Blumenau,Ipsep,-8.106442,-34.921326,E,Veicular
+112,Av. Boa Viagem,Rua Padre Carapuceiro,Boa Viagem,-8.120273,-34.895078,E/Git,Ocasional/Ped.
+113,Av. Boa Viagem,Rua Ernesto de Paula Santos,Boa Viagem,-8.125274,-34.897142,E/Git,Veic.C/Ped.Paral.
+114,Av. Conselheiro Aguiar,Rua Cel.Benedito Chaves,Boa Viagem,-8.128354,-34.900410,E/Git,Veicular
+115,Av. Conselheiro Aguiar,Rua Padre Carapuceiro,Boa Viagem,-8.119519,-34.896599,E/Git,Veicular
+116,Av. Mascarenhas de Morais,Em frente ao Nº 4728,Imbiribeira,-8.125339,-34.915160,E/Git,Ocasional/Ped.
+117,Av. Boa Viagem,3º Jardim,Boa Viagem,-8.108815,-34.888605,E/Git,Ocasional/Ped.
+118,Av. Boa Viagem,1º Jardim,Boa Viagem,-8.101374,-34.885168,E/Git,Ocasional/Ped.
+119,Av. Boa Viagem,Rua Ondina,Pina,-8.094196,-34.882681,E/Git,Ocasional/Ped.
+120,Av. Boa Viagem,Rua Bruno Veloso,Boa Viagem,-8.121939,-34.895997,E/Git,Veic.C/Ped.Paral.
+121,Av. Boa Viagem,Rua do Atlântico,Boa Viagem,-8.098279,-34.883756,E/Git,Ocasional/Ped.
+122,Av. Frei Matias Teves,Rua Dr. João Ásfora,Ilha do Leite,-8.063672,-34.896197,E/Git,Veic.C/Ped.
+123,Av. Boa Viagem,Rua Benvinda de Farias,Boa Viagem ,-8.111829,-34.889969,E/Git,Veic.C/Ped.Paral.
+124,Av. Boa Viagem,2º Jardim,Boa Viagem ,-8.104509,-34.886665,E/Git,Ocasional/Ped.
+125,Av. Conselheiro Aguiar,Rua Padre Bernadino Pessoa,Boa Viagem ,-8.114538,-34.893663,E/Git,Veicular
+126,Av. Rui Barbosa,Rua Esmeraldino Bandeira,Graças,-8.047637,-34.899890,E/Git,Veicular
+127,Av. Conselheiro Aguiar,Rua Ernesto de Paula Santos,Boa Viagem,-8.124892,-34.899121,E/Git,Veicular
+128,Av. Domingos Ferreira,Rua Cel. Benedito Chaves,Boa Viagem,-8.127933,-34.901425,E/Git,Veicular
+129,Av. Visconde de Jequitinhonha,Rua Barão de Souza Leão,Boa Viagem,-8.131572,-34.902889,E/Git,Veicular
+130,Av. Recife,Rua Jean Emile Favre,Ipsep,-8.115394,-34.924526,E/Git,Veicular
+131,Av. Beberibe,Av. Prof. José dos Anjos,Arruda,-8.027954,-34.892919,E/Git,Veicular
+132,Av. Abdias de Carvalho,Rua João Ivo,Madalena,-8.062088,-34.909676,E/Git,Veicular
+133,Av. Conselheiro Aguiar,Após a Rua Souto Filho,Pina,-8.092824,-34.883905,E/Git,Ocasional/Ped.
+134,Av. Mário Álvares de Lyra,Rua Prof. Joaquim Xavier de Brito,Iputinga,-8.046993,-34.936048,E/Git,Veic.C/Ped.
+135,Rua Jean Emile Favre,Av. Costa e Silva,Vila do Ipsep,-8.115302,-34.922666,E/Git,Veicular
+136,Rua Paula Batista,Rua Nereu Guerra,Casa Amarela,-8.025550,-34.915383,E/Git,Veicular
+137,Av. Herculano Bandeira,Rua Miranda Falcão,Pina,-8.088874,-34.885203,E/Git,Ocasional/Ped.
+138,Av. Herculano Bandeira,Av. Conselheiro Aguiar,Pina,-8.090466,-34.883615,E/Git,Veicular
+139,Av. Domingos Ferreira,Rua Benvinda de Farias,Boa Viagem,-8.110533,-34.892364,E/Git,Ocasional/Ped.
+140,Av. Conselheiro Aguiar,Rua Pereira da Costa,Pina,-8.095521,-34.884655,E/Git,Veicular
+141,Av. Dantas Barreto,Rua Siqueira Campos,Santo Antonio,-8.062692,-34.878243,E/Git,Veicular
+142,Av. Domingos Ferreira,Rua Pereira da Costa,Boa Viagem,-8.095197,-34.885913,E/Git,Veicular
+143,Av. Conselheiro Aguiar,Rua Henrique Capitulino,Boa Viagem,-8.109665,-34.890672,E/Git,Veicular
+144,Av. Domingos Ferreira,Rua Padre Bernadino Pessoa,Boa Viagem,-8.114084,-34.894511,E/Git,Veicular
+145,Av. Domingos Ferreira,Rua Antônio Falcão,Boa Viagem,-8.115744,-34.895531,E/Git,Veicular
+146,Av. Conselheiro Aguiar,Rua Bruno Veloso,Boa Viagem,-8.121770,-34.897939,E/Git,Veicular
+147,Av. Conselheiro Aguiar,Rua Ribeiro de Brito,Boa Viagem,-8.123740,-34.898664,E/Git,Veicular
+148,Av. Boa Viagem,Rua Prof. Mário de Castro,Boa Viagem,-8.137039,-34.901918,E/Git,Veic.C/Ped.Paral.
+149,Av. Boa Viagem,Rua Baltazar Passos,Boa Viagem,-8.145063,-34.905147,E/Git,Veic.C/Ped.Paral.
+150,Av. Boa Viagem,Rua Cel. Antônio Veloso,Boa Viagem,-8.148817,-34.906892,E/Git,Ocasional/Ped.
+151,Av. Lins Pettit,Em frente Praça Chora Menino,Boa Vista,-8.060402,-34.894791,E/Git,Ocasional/Ped.
+152,Av. Boa Viagem,Rua Benedito Chaves,Boa Viagem ,-8.129072,-34.898562,E/Git,Ocasional/Ped.
+153,Av. Beberibe,Próx. Rua São Joaquim do Monte,Água Fria ,-8.017012,-34.891978,E,Ocasional/Ped.
+154,Av. Visconde de Jequitinhonha,Rua Baltazar Passos,Setúbal,-8.144380,-34.906482,E/Git,Veicular
+155,Av. Domingos Ferreira,Rua Ribeiro de Brito,Boa Viagem,-8.123574,-34.899789,E/Git,Veicular
+156,Av. Dr. José Rufino,Em frente ao Colégio Castelo Branco,Tejipió,-8.091613,-34.949282,E,Ocasional/Ped.
+157,Rua Aprígio Guimarães,Rua Paulino de Farias,Coqueiral,-8.087151,-34.965569,E,Veicular
+158,Av. Visconde de Jequitinhonha,Rua Prof. Mário de Castro,Setúbal,-8.136528,-34.903513,E/Git,Veicular
+159,Rua Barão de Souza Leão,Rua Sá e Souza,Boa Viagem,-8.132055,-34.906769,E/Git,Veic.C/Ped.Ocas.
+160,Rua dos Navegantes,Rua Bruno Veloso,Boa Viagem,-8.121887,-34.896770,E/Git,Veic.C/Ped.Ocas.
+161,Av. Mascarenhas de Morais,Rua Jean Emile de Favre,Imbiribeira,-8.106314,-34.911444,E/Git,Ocasional/Ped.
+162,Av. Conde da Boa Vista,Rua da Aurora,Boa Vista,-8.062052,-34.881642,E/Git,Veic.C/Ped.
+163,Av. Dantas Barreto,Rua Nova,Santo Antonio,-8.064378,-34.878424,E/Git,Pedestre
+164,Av. Martins de Barros,Praça da República,Santo Antonio,-8.061638,-34.876530,E,Veicular
+165,Cais do Apolo,Av. Marquez de Olinda,Recife Antigo,-8.063737,-34.874422,E/Git,Veicular
+166,Rua do Espinheiro,Rua 48,Recife Antigo,-8.042306,-34.892561,E/Git,Veicular
+167,Rua Princesa Isabel,Rua da União,Boa Vista,-8.059131,-34.880605,E/Git,Pedestre
+168,Rua Princesa Isabel,Rua da Saudade,Boa Vista,-8.058763,-34.881174,E/Git,Veicular
+169,Av. Manoel Borba,Rua Gervásio Pires,Boa Vista,-8.061105,-34.887367,E/Git,Veicular
+170,Rua do Príncipe,Em frente à UNICAP,Boa Vista,-8.055811,-34.887862,E,Ocasional/Ped.
+171,Av. Cruz Cabugá,Av. Mário Melo,Santo Amaro,-8.053960,-34.881592,E/Git,Veicular
+172,Av. Visconde de Suassuna,Rua 13 de Maio,Santo Amaro,-8.053779,-34.884434,E/Git,Veicular
+173,Av. Gov. Agamenon Magalhães,Rua Dr. Bandeira Filho,Derby,-8.051467,-34.895077,E/Git,Veicular
+174,Av. Gov. Agamenon Magalhães,Rua Dom Bosco,Derby,-8.053390,-34.896415,E/Git,Veicular
+175,Rua do Riachuelo,Rua Gervásio Pires,Boa Vista,-8.058313,-34.885652,E/Git,Veicular
+176,Rua do Príncipe,Rua Bispo Cardoso Aires,Boa Vista,-8.056649,-34.886316,E/Git,Veicular
+177,Rua Amélia,Rua do Futuro,Graças,-8.045157,-34.898335,E/Git,Veicular
+178,Rua Amélia,Rua Antônio Novaes,Graças,-8.044977,-34.900298,E/Git,Ocasional/Ped.
+179,Rua José Osório,Rua Real da Torre,Madalena,-8.053547,-34.908646,E/Git,Veicular
+180,Rua da Concórdia,Rua de São João,São José,-8.069743,-34.882977,E/Git,Veicular
+181,Av. Dantas Barreto,Rua do Peixoto,São José,-8.071401,-34.883221,E/Git,Veicular
+182,Rua da Concórdia ,Rua do Peixoto,São José,-8.070961,-34.883875,E/Git,Veicular
+183,Av. Fernando Simões Barbosa,Rua Jack Aires,Boa Viagem,-8.119451,-34.901152,E/Git,Veic.C/Ped.Ocas.
+184,Rua Barão de Itamaracá,Rua da Hora,Espinheiro,-8.043834,-34.892819,E/Git,Veicular
+185,Av. Gal. San Martin,Rua Próx. Clotilde de Oliveira,Cordeiro,-8.052688,-34.922385,E,Ocasional/Ped.
+186,Av. Beberibe,Rua Coragem,Encruzilhada,-8.036111,-34.891244,E/Git,Veicular
+187,Av. Beberibe,Rua da Regeneração,Água Fria ,-8.018510,-34.893277,E,Veicular
+188,Av. Santos Dumont,Rua do Futuro,Rosarinho,-8.040902,-34.900096,E/Git,Veicular
+189,Rua Dom Manoel de Medeiros,Em frente ao LAFEPE,Dois Irmãos,-8.015859,-34.943677,E,Ocasional/Ped.
+190,Av. Boa Viagem,Rua Frei Leandro Camelo,Boa  Viagem,-8.146655,-34.905891,E/Git,Ocasional/Ped.
+191,Rua José Bonifácio,Rua Conde de Irajá,Torre,-8.046004,-34.907050,E/Git,Veicular
+192,Rua Real da Torre,Rua D. Manoel da Costa,Torre,-8.047506,-34.909150,E/Git,Veicular
+193,Rua José Bonifácio,Rua Padre Anchieta,Torre,-8.047199,-34.906653,E/Git,Veicular
+194,Av. Martins de Barros,Rua 1º de Março,Santo Antonio,-8.064105,-34.876370,E/Git,Veicular
+195,Rua Amélia,Rua do Espinheiro,Espinheiro,-8.045854,-34.895336,E/Git,Veicular
+196,Av. Alfredo Lisboa,Rua Vital de Oliveira,Bairro do Recife,-8.060701,-34.870413,E,Ocasional/Ped.
+197,Rua do Sol,Em frente ao Liceu de Artes de PE,Santo Antonio,-8.061107,-34.879324,E,Ocasional/Ped.
+198,Av. João de Barros,Rua Leopoldo Lins ,Santo Amaro,,,E,Veicular
+199,Rua de São João,Rua do Forte,São José,-8.071082,-34.880603,E,Ocasional/Ped.
+200,Av. Domingos Ferreira,Rua Thomé Gibson,Boa Viagem,-8.098758,-34.886600,E/Git,Veicular
+201,Estrada de Belém,Rua Antônio Rangel,Campo Grande,-8.035682,-34.888540,E,Veicular
+202,Av. Cruz Cabugá,Rua Dna. Maria de Souza,Santo Antonio,-8.040833,-34.872134,E/Git,Veic.C/Ped.Ocas.
+203,Av. Nossa Senhora do Carmo,Rua do Imperador,Santo Antonio,-8.066141,-34.876680,E/Git,Veic.C/Ped.Ocas.
+204,Av. Nossa Senhora do Carmo,Av. Martins de Barros,Santo Antonio,-8.066107,-34.876245,E/Git,Veicular
+205,Av. Sul(Pista principal),Antes do Viaduto Joana Bezerra,Afogados,-8.076835,-34.894778,E/Git,Ocasional/Ped.
+206,Rua do Imperador,Rua Siqueira Campos,Santo Antonio,-8.062875,-34.876975,E/Git,Veicular
+207,Rua Imperial ,Rua do Peixoto,São José,-8.071997,-34.882352,E/Git,Veicular
+208,Av. Dr. José Rufino,Rua Itaenga,Tejipió,-8.090837,-34.951214,E,Veic.C/Ped.Ocas.
+209,Rua Dr. José Mariano,Rua Velha,Santo Antonio,-8.064781,-34.885037,E,Veicular
+210,Rua da Aurora,Rua da Imperatriz,Santo Antonio,-8.063454,-34.882531,E/Git,Pedestre
+211,Av. Sul(corredor de ônibus),Antes do Viaduto Joana Bezerra,Afogados,-8.076928,-34.894710,E/Git,Ocasional/Ped.
+212,Av. Recife,Av. Presidente Kennedy,Areias,-8.103319,-34.927649,E/Git,Veic.C/Ped.Ocas.
+213,Av. Dr. José Rufino,Rua Domingos Teotônio,Barro,-8.092925,-34.941609,E,Ocasional/Ped.
+214,Av. Conselheiro Rosa e Silva,Av. Dr. Malaquias,Rosarinho,-8.038142,-34.900583,E/Git,Veicular
+215,Rua do Futuro,Av. Dr. Malaquias,Rosarinho,-8.038757,-34.901782,E/Git,Veicular
+216,Av. Domingos Ferreira,Rua Padre Carapuceiro,Boa Viagem,-8.119076,-34.897531,E/Git,Veicular
+217,Av. Domingos Ferreira,Rua Ernesto de Paula Santos,Boa Viagem,-8.124700,-34.900211,E/Git,Veicular
+218,Av. Mascarenhas de Morais,Rua Barão de Souza Leão,Imbiribeira,-8.132591,-34.916230,E,Ocasional/Ped.
+219,Rua Odete Monteiro,Em frente a Escola Munic. Darcy Ribeiro,Cordeiro,-8.045980,-34.920842,E,Ocasional/Ped.
+220,Av. Manoel Borba,Rua da Soledade,Boa Vista,-8.059565,-34.890071,E/Git,Veicular
+221,Rua Gervásio Pires,Rua Barão de São Borja,Boa Vista,-8.062029,-34.887929,E/Git,Veicular
+222,Rua da Soledade,Rua Oliveira Lima,Boa Vista,-8.056245,-34.889896,E/Git,Veicular
+223,Rua Padre Roma,Rua do Futuro,Tamarineira,-8.033814,-34.905615,E/Git,Veic.C/Ped.
+224,Rua Dom Manoel de Medeiros,Em frente a entrada da UFRPE,Dois Irmãos,-8.016905,-34.951408,E,Ocasional/Ped.
+225,Av. Mascarenhas de Morais,Av. General Mac. Arthur,Imbiribeira,-8.108870,-34.911830,E/Git,Veic.C/Ped.
+226,Av. Antônio de Góis,Av. Cons. Aguiar,Pina,-8.089550,-34.882736,E/Git,Veicular
+227,Rua Antônio Falcão,Rua Francisco da Cunha,Boa Viagem,-8.115157,-34.896684,E/Git,Veicular
+228,Av. Caxangá,Est BRT Engenho Poeta (Sub/Cid),Várzea,-8.034520,-34.950005,E/Git,Ocasional/Ped.
+229,Av. Caxangá,Rua São Mateus,Iputinga,-8.041579,-34.937045,E/Git,Veicular
+230,Av. Caxangá,Rua Prof. Chaves Batista,Iputinga,-8.037541,-34.944343,E/Git,Veicular
+231,Av. Caxangá,Rua General Polidoro,Iputinga,-8.036979,-34.945456,E/Git,Veicular
+232,Av. Caxangá,Rua Rodrigues Ferreira,Cordeiro,-8.032096,-34.954246,E/Git,Veicular
+233,Rua Carlos Gomes,Estrada do Bongi,Bongi,-8.066040,-34.914151,E/Git,Veicular
+234,Av. Caxangá,Rua Inácio Monteiro,Cordeiro,-8.045539,-34.929875,E/Git,Veicular
+235,Av. Caxangá,Rua Cláudio Brotherhood,Cordeiro,-8.046686,-34.927879,E/Git,Veicular
+236,Av. Caxangá,Rua Gregório Jr.,Cordeiro,-8.051658,-34.918898,E/Git,Veicular
+237,Rua Real da Torre,Em frente ao Colégio Joaquim Távora,Madalena,-8.055776,-34.909047,E/Git,Ocasional/Ped.
+238,Av. Beberibe,Rua Frederico,Encruzilhada,-8.034461,-34.891581,E/Git,Veicular
+239,Rua São Mateus,Av. Maurício de Nassau,Iputinga,-8.036687,-34.935337,E,Veic.C/Ped.Ocas.
+240,Av. Cons. Aguiar,Rua Frei Leandro,Boa Viagem,-8.102537,-34.887433,E/Git,Ocasional/Ped.
+241,Av. Cons. Aguiar,Rua Des. João Paes,Boa Viagem,-8.126841,-34.899838,E/Git,Ocasional/Ped.
+242,Estrada dos Remédios,Rua Nicolau Pereira,Afogados,-8.075989,-34.907286,E,Veicular
+243,Av. Norte Miguel Arraes de Alencar,Rua da Aurora(Ponte Limoeiro),Santo Amaro,-8.049989,-34.873799,E/Git,Veicular
+244,Av. Visconde de Suassuna,Rua Gervásio Pires,Santo Amaro,-8.054486,-34.883273,E/Git,Veicular
+245,Rua 21 de Abril,Av. Manoel Gonçalves da Luz,Mustardinha,-8.075102,-34.918391,E,Veic.C/Ped.
+246,Estrada do Barbalho,Av. Maurício de Nassau,Iputinga,-8.035471,-34.939850,E,Veic.C/Ped.Ocas.
+247,Av. Recife,Rua Raimundo Diniz,Ipsep,-8.116248,-34.923724,E/Git,Veicular
+248,Av. Dois Irmãos,Em frente à Fundação Joaquim Nabuco,Apipucos,-8.020731,-34.935794,E,Ocasional/Ped.
+249,Av. do Forte,Rua Gomes Taborda,Cordeiro,-8.053507,-34.928933,E,Veic.C/Ped.
+250,Av. João Cabral de Melo Neto,Rua Tenente Mindelo,San Martin,-8.075063,-34.930292,E/Git,Ocasional/Ped.
+251,Av. 17 de Agosto,Rua Piaui,Monterio,-8.029358,-34.925824,E,Ocasional/Ped.
+252,Rua Dom Manoel da Costa,Rua Padre Landim,Torre,-8.047935,-34.912448,E,Ocasional/Ped.
+253,Av. Cons. Rosa e Silva,Rua Dr. José Maria,Tamarineira,-8.034683,-34.902533,E/Git,Veicular
+254,Rua do Bom Pastor,Rua Comendador A. de Carvalho,Engenho do Meio,-8.041855,-34.938849,E,Veicular
+255,Cais da Alfândega,Em frente ao Shopping,Recife Antigo,-8.065063,-34.874110,E,Ocasional/Ped.
+256,Av. Norte Miguel Arraes de Alencar,Em frente a Mat. Barros Lima,Casa Amarela,-8.020638,-34.923509,E/Git,Ocasional/Ped.
+257,Rua Benfica,Rua Real da Torre,Madalena,-8.057092,-34.909243,E/Git,Ocasional/Ped.
+258,Av. Visconde de Jequitinhonha,Av Armindo Moura,Boa Viagem,-8.150556,-34.909229,E/Git,Veicular
+259,Av. Recife,Rua Senador Alberto Pasqualine,Estancia,-8.079617,-34.933912,E/Git,Veicular
+260,Av. Sul,Rua Nova da Cabanga,Cabanga,-8.077861,-34.897881,E/Git,Veicular
+261,Av. Recife,Rua Nossa Senhora de Fátima,Estancia,-8.082634,-34.932978,E/Git,Veic.C/Ped.Ocas.
+262,Av. Caxangá,Praça do Caxangá,Cordeiro,-8.031644,-34.954884,E/Git,Veicular
+263,Av. Caxangá,Estação BRT Túnel da Abolição (Cid/Sub),Madalena,-8.056418,-34.910079,E/Git,Ocasional/Ped.
+264,Av. Caxangá,Estação BRT Túnel da Abolição (Sub/Cid),Madalena,-8.056584,-34.910117,E/Git,Ocasional/Ped.
+265,Av. Caxangá,Estação BRT Getulio Vargas (Cid/Sub),Cordeiro,-8.050146,-34.921422,E/Git,Ocasional/Ped.
+266,Av. Caxangá,Estação BRT Getulio Vargas (Sub/Cid),Cordeiro,-8.050299,-34.921551,E/Git,Pedestre
+267,Av. Caxangá,Estação BRT Forte do Arraial (Cid/Sub),Cordeiro,-8.048130,-34.925055,E/Git,Ocasional/Ped.
+268,Av. Caxangá,Estação BRT Forte do Arraial (Sub/Cid),Cordeiro,-8.048288,-34.925162,E/Git,Ocasional/Ped.
+269,Av. Caxangá,Estação BRT  BR 101 (Cid/Sub),Iputinga,-8.038388,-34.942657,E/Git,Ocasional/Ped.
+270,Av. Caxangá,Estação BRT  BR 101 (Sub/Cid),Iputinga,-8.038523,-34.942786,E/Git,Ocasional/Ped.
+271,Av. Abdias de Carvalho,Próximo a UPA - Torrões (Cid/Sub),Torrões,-8.063964,-34.935793,E/Git,Ocasional/Ped.
+272,Av. Abdias de Carvalho,Próximo a UPA - Torrões (Sub/Cid),Torrões,-8.064074,-34.935713,E/Git,Ocasional/Ped.
+273,Av. Caxangá,Estação BRT - Zumbi (Cid/Sub),Zumbi,-8.053311,-34.915731,E/Git,Ocasional/Ped.
+274,Av. Caxangá,Estação BRT - Zumbi (Sub/Cid),Zumbi,-8.053461,-34.915814,E/Git,Ocasional/Ped.
+275,Av. Caxangá,Estação BRT Parque do Cordeiro (Cid/Sub),Cordeiro,-8.046260,-34.928452,E/Git,Ocasional/Ped.
+276,Av. Mascarenhas de Morais,Em frente a UPA da Imbiribeira CID/SUB,Imbiribeira,-8.120813,-34.914266,E/Git,Ocasional/Ped.
+277,Av. Antônio de Góis,Rua Miranda Falcão,Pina,-8.087743,-34.884504,E/Git,Pedestre
+278,Pça. da República,Rua do Imperador,Santo Antonio,-8.061501,-34.877182,E,Ocasional/Ped.
+279,Av. Mascarenhas de Morais,Rua Álvaro Amorim,Imbiribeira,-8.086972,-34.907580,E/Git,Veic.C/Ped.Paral.
+280,Rua Tomás Gonzaga,Rua Profº.Estevão Fran. da Costa,Cordeiro,-8.048433,-34.919173,E/Git,Veicular
+281,Av. Joaquim Ribeiro,Rua Ribeiro Pessoa,Caxangá,-8.030013,-34.958002,E/Git,Veicular
+282,Rua Jerônimo Vilela,Rua Franklin Távora,Campo Grande,-8.028109,-34.882152,E,Veicular
+283,Estrada do Arraial,Rua Paula Batista,Casa Amarela,-8.026721,-34.916176,E/Git,Veicular
+284,Av. Nossa Senhora do Carmo,Av. Dantas Barreto,Santo Antonio,-8.065891,-34.879036,E/Git,Veic.C/Ped.
+285,Rua Falcão de Lacerda,Rua 15 de Novembro,Tejipió,-8.092065,-34.961480,E,Veicular
+286,Av. Mascarenhas de Morais,Rua Arquiteto Fernando Almeida,Imbiribeira,-8.088045,-34.907803,E/Git,Veicular
+287,Av. Mascarenhas de Morais,Rua Missionário Joel Carlson,Imbiribeira,-8.096481,-34.909728,E/Git,Veic.C/Ped.Ocas.
+288,Av. Mascarenhas de Morais,Rua Engº.Alves de Souza,Imbiribeira,-8.098453,-34.910102,E/Git,Veicular
+289,Av. Mascarenhas de Morais,Rua Dr. Tavares Correia,Imbiribeira,-8.115595,-34.913309,E/Git,Veic.C/Ped.Ocas.
+290,Av. Mascarenhas de Morais,Rua Jornalista Cleóphas de Oliveira,Imbiribeira,-8.116233,-34.913346,E/Git,Veicular
+291,Estrada do Arraial,Em frente ao Colégio Dom Bosco,Casa Amarela,-8.028431,-34.910696,E/Git,Ocasional/Ped.
+292,Av. Rui Barbosa,Av. Dr. Malaquias,Graças,-8.039897,-34.904022,E/Git,Veicular
+293,Rua Pintor Antônio Albuquerque,Rua Hélio Brandão,Vila do Ipsep,-8.107744,-34.925727,E/Git,Veicular
+294,Rua Dom Bosco,Rua Henrique Dias,Boa Vista,-8.058036,-34.894590,E/Git,Veicular
+295,Estrada do Arraial,Rua Desemb. Góis Cavalcante,Casa Forte,-8.030112,-34.907056,E/Git,Ocasional/Ped.
+296,Av. Norte Miguel Arraes de Alencar,Rua Maria Candida,Macaxeira,-8.012567,-34.931804,E/Git,Veicular
+297,Av. Domingos Ferreira,Gilson M. Guimarães (antigo SUPERBOX),Boa Viagem,-8.105434,-34.889648,E/Git,Veic.C/Ped.Paral.
+298,Rua Ribeiro de Brito,Rua Visconde de Jequitinhonha,Boa Viagem,-8.122987,-34.903879,E/Git,Veicular
+299,Av. Conde da Boa Vista,Rua Osvaldo Cruz,Boa Vista,-8.056664,-34.892671,E/Git,Veicular
+300,Rua São Miguel,Em frente à Esc. Amauri Medeiros,Afogados,-8.080315,-34.908269,E/Git,Ocasional/Ped.
+301,Rua José Bonifácio,Rua Vitoriano Palhares,Torre,-8.043492,-34.907912,E/Git,Veicular
+302,Rua Imperial,Em frente à Escola Joaquim Nabuco,São José,-8.074865,-34.891146,E/Git,Ocasional/Ped.
+303,Av. Domingos Ferreira,Rua Adeth Leite,Boa Viagem,-8.101935,-34.888044,E/Git,Veicular
+304,Rua Ernesto de Paula Santos,Rua Visconde de Jequitinhonha,Boa Viagem,-8.124081,-34.903819,E/Git,Veicular
+305,Av. Rui Barbosa,Rua Senador Alberto Paiva,Graças,-8.043981,-34.902188,E/Git,Veicular
+306,Estrada Velha de Água Fria,Rua Prof. José dos Anjos,Arruda,-8.026749,-34.897962,E,Veicular
+307,Av. Beberibe,Rua Cel. Urbano de Sena,Arruda,-8.015017,-34.890140,E,Veic.C/Ped.Ocas.
+308,Rua João Lira,Rua da Saudade,Boa Vista,-8.056601,-34.879851,E/Git,Veicular
+309,Av. Conselheiro Rosa e Silva,Em frente ao Hospital do IPSEP,Graças,-8.047866,-34.896847,E/Git,Ocasional/Ped.
+310,Av. Mascarenhas de Morais,Em frente a UPA da Imbiribeira SUB/CID,Imbiribeira,-8.120907,-34.914121,E/Git,Veic.C/Ped.Ocas.
+311,Av. Sul,Praça Sérgio Loreto,São José,-8.073372,-34.885191,E/Git,Veicular
+312,Av. Norte Miguel Arraes de Alencar,Rua da Harmonia,Casa Amarela,-8.023829,-34.912528,E/Git,Veicular
+313,Rua 21 de Abril,Em frente à Escola Antônio Farias,Afogados,-8.072345,-34.925366,E,Ocasional/Ped.
+314,Av. Beberibe,Rua Expedicionário Inácio Gomes,Beberibe,-8.004794,-34.893625,E,Ocasional/Ped.
+315,Rua São Nicolau,Rua Abdias Cabral de Moura,Vila do Ipsep,-8.106877,-34.926670,E/Git,Veicular
+316,Av. Masc. de Morais,Ao lado Semáforo Nº 279,Imbiribeira,-8.087051,-34.907504,E/Git,Ocasional/Ped.
+317,Rua Souza Bandeira,Rua Marquês de Maricá,Cordeiro,-8.047588,-34.917384,E/Git,Veic.C/Ped.
+318,Av. Cons. Aguiar,Rua Cel. Sérgio Cardim,Boa Viagem,-8.130807,-34.901285,E/Git,Veicular
+319,Av. Recife,Av. Senador Robert Kennedy,Vila da Sudene,-8.119429,-34.920891,E/Git,Veicular
+320,Av. Sul,Ponte dos Afogados,Afogados,-8.079511,-34.902473,E/Git,Veicular
+321,Rua Padre Carapuceiro,Av. Fernando Simões Barbosa,Boa Viagem ,-8.117528,-34.900801,E/Git,Veicular
+322,Rua Dez de Julho,Em frente a Estação Metrô Aeroporto,Imbiribeira,-8.134524,-34.914772,E/Git,Ocasional/Ped.
+323,Av. Dois Rios,Próx. a Rua Fernando Tomaz da Silva,Ibura,-8.116596,-34.941130,E/Git,Veic.C/Ped.Ocas.
+324,Av. Domingos Ferreira,Rua Antônio Pedro Figueiredo,Boa Viagem,-8.099950,-34.887130,E/Git,Veicular
+325,Av. Dois Rios,Próx. a Rua Rio Pajeú,Ibura,-8.113534,-34.938989,E/Git,Ocasional/Ped.
+326,Av. Gal. San Martin,Rua Delmiro Gouveia,Bongi,-8.065287,-34.927227,E/Git,Veic.C/Ped.
+327,Av. Abdias de Carvalho,Em frente a Estácio - Sub/Cid.,Prado,-8.062513,-34.917033,E,Ocasional/Ped.
+328,Av. Abdias de Carvalho,Em frente à FIR - Cid/Sub.,Prado,-8.062363,-34.917038,E,Ocasional/Ped.
+329,Rua Ernesto de Paula Santos,Av. Fernando Simões Barbosa,Boa Viagem,-8.124460,-34.901516,E/Git,Veicular
+330,Rua Ernesto de Paula Santos,Rua Ten. Domingos de Brito,Boa Viagem,-8.124127,-34.905228,E/Git,Veicular
+331,Rua Ribeiro de Brito,Rua Ten. Domingos de Brito,Boa Viagem,-8.122961,-34.905213,E/Git,Veicular
+332,Rua Ribeiro de Brito,Av. Fernando Simões Barbosa,Boa Viagem,-8.123331,-34.901447,E/Git,Veicular
+333,Rua São Miguel,Rua Santos Araújo,Afogados,-8.080316,-34.909456,E/Git,Veicular
+334,Rua 21 de Abril,Rua Cosme Viana,Afogados,-8.076993,-34.909194,E/Git,Veic.C/Ped.
+335,Av. Fernando Simões Barbosa,Rua Bruno Veloso,Boa Viagem,-8.121371,-34.901309,E/Git,Veicular
+336,Av. Recife,Em frente ao Hospital Geral de Areias,Caçote,-8.100611,-34.928171,E/Git,Ocasional/Ped.
+337,Av. Recife,Em frente ao antigo BOMPREÇO,Ipsep,-8.112517,-34.926508,E/Git,Ocasional/Ped.
+338,Av. Domingos Ferreira,Rua Bruno Veloso,Boa Viagem,-8.121631,-34.899050,E/Git,Veicular
+339,Av. João de Barros,Próximo a Rua Marquês do Paraná,Espinheiro,-8.042850,-34.890702,E/Git,Ocasional/Ped.
+340,Cais do Apolo,Em frente à Prefeitura do Recife,Bairro do Recife,-8.054344,-34.871957,E/Git,Ocasional/Ped.
+341,Rua Jerônimo Vilela,Rua Marquês de Baiapendi,Campo Grande,-8.025460,-34.882737,E,Veic.C/Ped.Ocas.
+342,Rua Cônego Barata,Em frente a APAE,tamarineira,-8.032146,-34.902614,E/Git,Ocasional/Ped.
+343,Av. Cruz Cabugá,Av. Jaime da Fonte,Santo Amaro,-8.044646,-34.874888,E/Git,Veicular
+344,Av. Cruz Cabugá,Beco do Tramways,Santo Amaro,-8.043294,-34.873933,E/Git,Veicular
+345,Av. 17 de Agosto,Rua Lemos Torres,Casa Forte,-8.036436,-34.913909,E/Git,Veic.C/Ped.Ocas.
+346,Av. 17 de Agosto,Rua Leonardo Cavalcanti,Casa Forte,-8.037138,-34.914591,E/Git,Veicular
+347,Rua Cônego Barata,Em frente ao Hospital Ulisses Pernambucano,Tamarineira,-8.032199,-34.902509,E/Git,Ocasional/Ped.
+348,Rua Carlos Gomes,Rua Gomes Taborda,Prado,-8.059004,-34.911957,E/Git,Veicular
+349,Av. Gov. Agamenon Magalhães,Em frente ao Real Hosp. Português (Principal),Ilha do Leite,-8.063700,-34.897595,E/Git,Ocasional/Ped.
+350,Av. Gov. Agamenon Magalhães,Em frente ao Real Hosp. Português (local),Ilha do Leite,-8.063725,-34.897695,E/Git,Ocasional/Ped.
+351,Av. Dois Rios,Rua Rio Xingú,Dois Rios,-8.117766,-34.941927,E/Git,Veicular
+352,Rua Imperial,Rua Cabo Eutrópio,Cabanga,-8.077527,-34.899322,E,Veic.C/Ped.Paral.
+353,Rua José Gonçalves de Medeiros,Estrada dos Remédios,Benfica,-8.058948,-34.907222,E/Git,Veicular
+354,Av. Abdias de Carvalho,Rua Santa Edwirgens,Prado,-8.062577,-34.911677,E/Git,Veicular
+355,Av. Abdias de Carvalho,Rua Tabaiares(Girador do Sport),Ilha do Retiro,-8.061118,-34.904854,E/Git,Veicular
+356,Av. João de Barros,Av. Visconde de Suassuna,Boa Vista,-8.050213,-34.889948,E,Veicular
+357,Rua Odorico Mendes,Rua Prof. Francisco Trindade,Campo Grande,-8.035389,-34.880524,E,Veicular
+358,Praça Parnamirim,Estrada do Encanamento,Parnamirim,-8.033040,-34.910404,E/Git,Veicular
+359,Rua dos Coelhos,Em frente ao IMIP,Coelhos,-8.066612,-34.889726,E,Ocasional/Ped.
+360,Rua Alberto Paiva,Rua Antônio Novaes,Graças,-8.043870,-34.900388,E/Git,Veicular
+361,Rua da Hora ,Rua Amélia(J. L. Silveira),Espinheiro,-8.046217,-34.894335,E/Git,Veicular
+362,Rua Regueira Costa,Rua Dr. José Maria,Rosarinho,-8.035400,-34.898450,E/Git,Veicular
+363,Rua das Moças,Rua Constância,Arruda,-8.016591,-34.883967,E,Veicular
+364,Av. Norte Miguel Arraes de Alencar,Rua Prof. José dos Anjos,Mangabeira,-8.026245,-34.905490,E/Git,Veicular
+365,Av. João de Barros,Rua Joaquim Felipe,Boa Vista,-8.053189,-34.889967,E,Veicular
+366,Av. Cons. Aguiar,Rua França Pereira,Boa Viagem,-8.106144,-34.889082,E/Git,Ocasional/Ped.
+367,Rua Sport Club do Recife,Rua José Múcio Monteiro,Ilha do Retiro,-8.061485,-34.902625,E/Git,Veic.C/Ped.Paral.
+368,Av. Joaquim Ribeiro,Rua Francisco Torres,Várzea,-8.030295,-34.957363,E/Git,Veicular
+369,Rua Padre Lemos,Em frente aos CORREIOS,Casa Amarela,-8.022337,-34.919695,E,Ocasional/Ped.
+370,Av. 17 de Agosto,Praça do Monteiro,Monteiro,-8.027749,-34.928219,E/Git,Ocasional/Ped.
+371,Av. Gal. San Martin,Próximo a Rua Sigismundo Cabral de Melo,San Martin,-8.073416,-34.929589,E,Ocasional/Ped.
+372,Av. 17 de Agosto,Praça de Casa Forte ,Casa Forte,-8.035731,-34.920195,E/Git,Veic.C/Ped.Ocas.
+373,Rua Estado de Israel,Rua Dr. João Ásfora,ilha do Leite,-8.063488,-34.894867,E/Git,Veicular
+374,Av. Professor Luiz Freire,Em frente à CEFET,Cidade Universitária,-8.058509,-34.949579,E,Ocasional/Ped.
+375,Av. Abdias de Carvalho,Av. do Forte,Cordeiro,-8.062545,-34.932194,E/Git,Veic.C/Ped.
+376,Av. Norte Miguel Arraes de Alencar,Rua Guadalupe,Torreão,-8.040395,-34.886885,E/Git,Veicular
+377,Rua Marechal Deodoro,Rua Castro Alves,Torreão,-8.039653,-34.887309,E/Git,Veicular
+378,Av. Gov. Agamenon Magalhães,Em frente ao Nº 674, (Sentido Olinda),Torreão,-8.041235,-34.881592,E/Git,Ocasional/Ped.
+379,Av. Gov. Agamenon Magalhães,Em frente ao Ed.Visgueiro Nº1330,Torreão,-8.040896,-34.881825,E/Git,Ocasional/Ped.
+380,Av. Domingos Ferreira,Rua Artur Muniz,Boa Viagem,-8.104002,-34.888953,E/Git,Veicular
+381,Av. Dantas Barreto,Rua Tobias Barreto(Pista Leste),Santo Antonio,-8.067750,-34.880055,E/Git,Ocasional/Ped.
+382,Av. Dantas Barreto,Rua Tobias Barreto,Santo Antonio,-8.067598,-34.880289,E/Git,Veicular
+383,Cais de Santa Rita,Av. Martins de Barros,São José,-8.067341,-34.875618,E/Git,Veicular
+384,Av. Dantas Barreto,Rua Passo da Pátria(Central),Santo Antonio,-8.069285,-34.881638,E/Git,Ocasional/Ped.
+385,Av. Mascarenhas de Morais,Rua Muritiba,Imbiribeira,-8.112542,-34.912620,E/Git,Veicular
+386,Av. Mascarenhas de Morais,Rua Itacaré,Imbiribeira,-8.111426,-34.912393,E/Git,Veic.C/Ped.Ocas.
+387,Av. Beira Rio,Rua José Osório,Madalena,-8.053042,-34.904730,E/Git,Veic.C/Ped.
+388,Av. Beberibe,Av. Cidade do Monteiro,Cajueiro,-8.009337,-34.889131,E,Veicular
+389,Av. 17 de Agosto,Em frente ao C.P.O.R.,Santana,-8.037942,-34.918009,E/Git,Veic.c/Ped.Ocas.
+390,Estrada dos Remédios,Rua Tabaiares,Ilha do Retiro,-8.065242,-34.908034,E/Git,Veic.C/Ped.Paral.
+391,Rua São Miguel,Em frente ao Nº 685,Afogados,-8.080499,-34.912906,E,Ocasional/Ped.
+392,Rua São Miguel,Rua do Troley,Jiquiá,-8.080911,-34.919408,E,Ocasional/Ped.
+393,Av. Recife,Rua Gonçalves Magalhães,Vila da Sudene,-8.120308,-34.919456,E/Git,Veicular
+394,Estrada Velha do Bongi ,Estrada dos Remédios,Bongi,-8.068958,-34.908466,E,Veic.C/Ped.Paral.
+395,Rua Lindolfo Collor,Rua Antônio Curado,Engenho do Meio,-8.052412,-34.941340,E,Veicular
+396,Rua Olívia Menelau,Av. Mascarenhas de Morais,Imbiribeira,-8.091147,-34.908513,E/Git,Veicular
+397,Av. Norte Miguel Arraes de Alencar,Em frente ao Nº 886,Santo Amaro,-8.044930,-34.880372,E/Git,Ocasional/Ped.
+398,Av. Beberibe,Em frente ao Nº 4510,Beberibe,-8.004059,-34.897083,E,Ocasional/Ped.
+399,Rua Arquiteto Luis Nunes,Rua Álvaro Amorim,Imbiribeira,-8.086460,-34.909649,E/Git,Ocasional/Ped.
+400,Av. Desembargador José Neves,Entrada do Túnel Augusto Lucena sent C/S,Boa Viagem,-8.121305,-34.909783,E/DIG,Ocasional/Ped.
+401,Rua Dom Bosco,Em frente ao Batalhão da Rádio Patrulha,Boa Vista,-8.057437,-34.894809,E/Git,Ocasional/Ped.
+402,Av. Gal.Mac. Arthur,Rua Jorge de Lima,Imbiribeira,-8.109790,-34.907568,E/Git,Ocasional/Ped.
+403,Av. Gal.San Martin,Em frente aos CORREIOS,Cordeiro,-8.058427,-34.925094,E,Ocasional/Ped.
+404,Estrada do Arraial,Rua Padre Lemos,Casa Amarela,-8.026759,-34.917731,E/Git,Veic.c/Ped.Ocas.
+405,Av. Beberibe,Rua Júlio Ramos,Água Fria,-8.019664,-34.894550,E,Veic.c/Ped.Ocas.
+406,Rua do Futuro,Em frente ao Parque da Jaqueira,Rosarinho,-8.036082,-34.903974,E/Git,Ocasional/Ped.
+407,Rua Barão de Souza Leão,Em frente ao Colégio Santos Dumont,Boa Viagem,-8.132167,-34.907281,E/Git,Ocasional/Ped.
+408,Rua da Concórdia,Praça Sérgio Loreto,São José,-8.071999,-34.884642,E/Git,Veicular
+409,Rua Conde de Irajá,Praça da Torre,Torre,-8.047001,-34.913636,E,Ocasional/Ped.
+410,Av. 17 de Agosto,Em frente ao Colégio Mater Christi,Casa Forte,-8.032824,-34.923126,E,Ocasional/Ped.
+411,Rua Falcão de Lacerda,Em frente ao Colégio Barão de Rio Branco,Tejipió,-8.091702,-34.960211,E,Ocasional/Ped.
+412,Av. João de Barros,Rua Dom Vital,Santo Amaro,-8.046496,-34.889856,E,Ocasional/Ped.
+413,Av. Visconde de Albuquerque,Em frente ao Hospial D'Ávila,Madalena,-8.052039,-34.906643,E/Git,Ocasional/Ped.
+414,Rua Imperial,Em frente ao Nº 363,São José,-8.071947,-34.882129,E/Git,Pedestre
+415,Av. 17 de Agosto,Rua Virgínia Loreto,Parnamirim,-8.034731,-34.911633,E/Git,Ocasional/Ped.
+416,Av. Dois Irmãos,BR-101,Dois Irmãos,-8.016837,-34.940941,E/Git,Veicular
+417,Av. Gov. Agamenon Magalhães,Praça do Derby (pista Sul),Derby,-8.057480,-34.898221,E/Git,Veicular
+418,Praça do Derby (pista Sul),Rua Jenner de Souza,Derby,-8.057518,-34.900070,E/Git,Veicular
+419,Av. Conselheiro Aguiar,Rua Barão de Souza Leão,Boa Viagem,-8.132069,-34.901564,E/Git,Veicular
+420,Rua Capitão Zuzinha,Rua Sá e Souza,Setúbal,-8.134801,-34.906262,E/GIt,Veicular
+421,Estrada do Arraial,Rua Sebastião Alves,Tamarineira,-8.031005,-34.905445,E/Git,Veic.C/Ped.Paral.
+422,Av. Abdias de Carvalho,Rua 15 de Março,Cordeiro,-8.061639,-34.930046,E/Git,Veicular
+423,Rua São Miguel,Rua Odilon Tucuman,Afogados,-8.080699,-34.914588,E,Ocasional/Ped.
+424,Av. Norte Miguel Arraes de Alencar,Rua Bujarú,Alto do Mandu,-8.018246,-34.928354,E,Ocasional/Ped.
+425,Rua São Miguel,Em frente ao Nº 1808,Jiquiá,-8.081843,-34.922850,E,Ocasional/Ped.
+426,Rua Cosme Viana,Rua Doutor Adelino,Afogados,-8.075838,-34.909021,E/Git,Veicular
+427,Rua Treze de Maio,Rua Pedro Afonso,Santo Amaro,-8.049454,-34.881627,E/Git,Veicular
+428,Rua 13 de Maio,Av. Da Saudade,Santo Amaro,-8.051091,-34.882771,E/Git,Veicular
+429,Rua da Aurora,Rua Mamede Simões,Boa Vista,-8.058434,-34.879286,E,Ocasional/Ped.
+430,Rua Cosme Viana,Rua Cel.Alfredo Duarte,Bongi,-8.071477,-34.909389,E/Git,Veicular
+431,Rua Alegre,Rua Zeferino Agra,Água Fria,-8.021129,-34.893056,E,Ocasional/Ped.
+432,Rua Guilherme Pinto,Em frente ao Instituto dos Cegos,Graças,-8.052197,-34.902136,E/Git,Ocasional/Ped.
+433,Av. Visconde de Jequitinhonha,Rua Capitão Zuzinha,Boa Viagem,-8.133035,-34.902852,E/Git,Veicular
+434,Av. Dr. José Rufino,Rua do Sancho,Sancho,-8.090909,-34.957331,E/Git,Veic.C/Ped.Ocas.
+435,Rua da Harmonia,Estrada do Encanamento,Casa Forte,-8.031533,-34.915277,E/Git,Veicular
+436,Cais do Apolo,Av. Militar,Bairro do Recife,-8.053540,-34.871839,E/Git,Veicular
+437,Rua 10 de Julho,Av. Dom João VI (canal do Jordão),Boa Viagem,-8.135802,-34.908452,E/Git,Veicular
+438,Av. Boa Viagem,Próximo à Rua Verdes Mares,Boa Viagem,-8.135429,-34.901386,E/Git,Ocasional/Ped.
+439,Av. Mascarenhas de Morais,Em Frente ao Nº 2727,Boa Viagem,-8.106415,-34.911255,E/Git,Ocasional/Ped.
+440,Av. Liberdade,Rua Juvêncio Marques da Cunha,Totó,-8.081032,-34.968542,E/Git,Veic.C/Ped.Ocas.
+441,Av. Armindo Moura,Rua Cosmorama,Porta Larga,-8.148718,-34.914016,E/Git,Veicular
+442,Rua Sgt. Silvino Macedo,Rua Antônio Torres Galvão,Imbiribeira,-8.112050,-34.906685,E/Git,Veicular
+443,Av. Visconde de Jequitinhonha,Rua Charles Darwin,Boa Viagem,-8.130714,-34.902615,E/Git,Ocasional/Ped.
+444,Av. Domingos Ferreira,Rua Cel. Sérgio Cardim,Boa Viagem,-8.130575,-34.902075,E/Git,Ocasional/Ped.
+445,Av. Boa Viagem,Rua Zael Diógenes,Boa Viagem,-8.139063,-34.902598,E/Git,Veic.C/Ped.Paral.
+446,Estrada do Arraial,Em frenteao nº 2926 (Instituto Ariano Suassuna),Casa Amarela,-8.029410,-34.908300,E/Git,Ocasional/Ped.
+447,Rua Uriel de Holanda,Av. Hildebrando Vasconcelos,Bebribe,-8.004139,-34.899555,E,Veic.C/Ped.Ocas.
+448,Rua Souza Bandeira,Rua Tomaz Gonzaga,Cordeiro,-8.048884,-34.917864,E/Git,Veicular
+449,Rua Jean Emile Favre,Rua Itacari,Ipsep,-8.107902,-34.915933,E,Veicular
+450,Rua Pampulha,Rua Izabel de Souza,Imbiribeira,-8.109840,-34.912939,E/Git,Veicular
+451,Av. Norte Miguel Arraes de Alencar,Rua Tijucal,Macaxeira,-8.013432,-34.931481,E/Git,Veicular
+452,Av. Rui Barbosa,Em frente ao Parque da Jaqueira,Jaqueira,-8.037930,-34.905533,E/Git,Ocasional/Ped.
+453,Cais do Apolo,Em frente ao Tribunal Regional Federal,Recife Antigo,-8.058771,-34.872580,E/Git,Ocasional/Ped.
+454,Cais do Apolo,Em frente a Praça Tiradentes ,Bairro do Recife,-8.058860,-34.872457,E/Git,Ocasional/Ped.
+455,Av.Cruz Cabugá,Em frente a Praça Abreu e Lima,Santo Amaro,-8.046964,-34.876507,E/Git,Veic.C/Ped.Ocas.
+456,Av. Norte Miguel Arraes de Alencar,Rua Salvador de Sá,Rosarinho,-8.031505,-34.898032,E/Git,Veic.C/Ped.Ocas.
+457,Av. Cruz Cabugá,Rua Araripina,Santo Amaro,-8.050455,-34.879040,E,Ocasional/Ped.
+458,Estrada de Belém,Rua Gonçalves Dias,Campo Grande,-8.032065,-34.877881,E,Veic.C/Ped.
+459,Av. Conselheiro Rosa e Silva,Rua Conselheiro Portela,Espinheiro,-8.043634,-34.897365,E/Git,Veic.C/Ped.Paral.
+460,Av. Parnamirim,Rua Leonardo Bezerra Cavalcante,Jaqueira,-8.035814,-34.906837,E/Git,Veic.C/Ped.Paral.
+461,Av. Recife,Próximo ao Supermercado Makro,Vila Tamandaré,-8.088813,-34.929836,E/Git,Ocasional/Ped.
+462,Estrada do Encanamento,Rua Ferreira Lopes,Parnamirim,-8.032263,-34.912967,E/Git,Veicular
+463,Av. Norte Miguel Arraes de Alencar,Rua Vinte e Quatro de Agosto,Santo Amaro,-8.049120,-34.874913,E/Git,Veicular
+464,Rua Conselheiro Portela,Rua Barão de Itamaracá,Espinheiro,-8.042562,-34.894676,E/Git,Veicular
+465,Av. Gov. Agamenon Magalhães,Em frente à Reitoria da FESP/UPE,Boa Vista,-8.043816,-34.887198,E/Git,Ocasional/Ped.
+466,Rua do Príncipe,Em frente ao Hospital Geral do Recife,Boa Vista,-8.057845,-34.883644,E/Git,Pedestre
+467,Rua Barão de Vitória,Em frente a Estação Central RFFSA,Santo Antonio,-8.066941,-34.883257,E,Pedestre
+468,Av. Cruz Cabugá,Ao lado do Shopping Tacaruna,Santo Antonio,-8.039662,-34.871386,E/Git,Ocasional/Ped.
+469,Av. 17 de Agosto,Rua Jader de Andrade,Casa Forte,-8.033854,-34.922021,E/Git,Veicular
+470,Av. Cruz Cabugá,Em frente ao Nº 1920 (Sent. Olinda),Santo Amaro,-8.039706,-34.871276,E/Git,Ocasional/Ped.
+471,Av. Masc. de Morais,Rua João Fontes,Imbiribeira,-8.125187,-34.914922,E/Git,Veicular
+472,Rua das Moças,Rua da Regeneração,Fundão,-8.021438,-34.886511,E,Veicular
+473,Ponte 12 de Setembro,Cais de Santa Rita,Santo Antonio,-8.068208,-34.874704,E/Git,Veicular
+474,Av. Cruz Cabugá,Em frente ao Hospital do Câncer,Santo Amaro,-8.042124,-34.873114,E/Git,Ocasional/Ped.
+475,Av. Dois Rios,Rua Rio Chuí,Ibura,-8.115407,-34.940297,E/Git,Ocasional/Ped.
+476,Rua Barão de Souza Leão,Rua Desembargador José Neves,Boa Viagem,-8.132819,-34.911010,E/GIt,Veicular
+477,Rua Madre de Deus,Av. Alfredo Lisboa,Recife Antigo,-8.066185,-34.873324,E/Git,Veicular
+478,Rua Cosmorama,Rua João Cardoso Aires,Setúbal,-8.141132,-34.911158,E/Git,Veicular
+479,Av. Cruz Cabugá,Rua F. Barreto,Santo Amaro,-8.042155,-34.873047,E/Git,Ocasional/Ped.
+480,Av. Beberibe,Em frente ao Nº 621,Encruzilhada,-8.031910,-34.892000,E/Git,Ocasional/Ped.
+481,Rua Sport Club do Recife,Rua Prof.Benedito Monteiro,Ilha do Retiro,-8.061132,-34.904010,E/Git,Veic.C/Ped.Ocas.
+482,Av. Do Forte,Em frente a Praça do Forte,Cordeiro,-8.058380,-34.931269,E,Ocasional/Ped.
+483,Av. Boa Viagem,Rua Vicente Gomes,Boa Viagem,-8.133277,-34.900494,E/Git,Veic.C/Ped.Paral.
+484,Av. Domingos Ferreira,Rua Henrique Capitulino,Boa Viagem,-8.109199,-34.891495,E/Git,Ocasional/Ped.
+485,Rua Leonardo Cavalcante,Rua Igarassu,Casa Forte,-8.037736,-34.911764,E,Veicular
+486,Av. Conde da Boa Vista,Rua Sete de Setembro,Boa Vista,-8.061073,-34.883421,E/Git,Ocasional/Ped.
+487,Rua José Bonifácio,Rua Marcos André,Torre,-8.041003,-34.908696,E/Git,Veicular
+488,Praça da República,Em frente ao Palácio das Princesas,Santo Antonio,-8.060398,-34.877658,E,Ocasional/Ped.
+489,Av. Caxangá,Rua José Osório,Zumbi,-8.054367,-34.913983,E/Git,Veicular
+490,Av. Frei Matias Teves,Rua Francisco Alves,Ilha do Leite,-8.066542,-34.895424,E/Git,Veic.C/Ped.Ocas.
+491,Av. Dr. José Rufino,Em frente à Igreja de Santa Luzia,Areias,-8.086622,-34.930909,E,Ocasional/Ped.
+492,Av. Beberibe,Rua Ramiz Galvão,Arruda,-8.025192,-34.893494,E/Git,Veic.C/Ped.Ocas.
+493,Rua Arquiteto Luiz Nunes,Em frente ao Nº 551,Imbiribeira,-8.088835,-34.910229,E/Git,Ocasional/Ped.
+494,Av. Recife,Rua Gregório Caldas,Vila C Silva,-8.096045,-34.928796,E/Git,Veic.C/Ped.Ocas.
+495,Rua Mem de Sá,Rua Prof. Jerônimo Gueiros,Arruda,-8.029678,-34.889778,E,Veicular
+496,Rua Ribeiro de Brito,Rua Agenor Lopes,Boa Viagem,-8.122962,-34.905851,E/Git,Veicular
+497,Av. Dr. José Rufino,Em frente a Estação do Metrô,Sancho,-8.090773,-34.956702,E/Git,Ocasional/Ped.
+498,Rua Joaquim Nabuco,Rua Guilherme Pinto,Derby,-8.052791,-34.902218,E/Git,Veicular
+499,Rua Cosme Viana,Rua Pe. Teófilo Twortz,Prado,-8.064945,-34.909022,E,Veic.c/Ped.Ocas.
+500,Av. Dois Irmãos,Rua Mandacaru,Apipucos,-8.021975,-34.931659,E,Veicular
+501,Av. Mascarenhas de Morais,Proxímo a Estrada dos Frigoríficos,,Imbiribeira,-8.103560,-34.910724,E/Git,Ocasional/Ped.
+502,Av. Mascarenhas de Morais,Rua Itália,Imbiribeira,-8.103214,-34.910852,E/Git,Ocasional/Ped.
+503,Rua João Ivo da Silva,Próx. a Rua Teófilo Twortz,Prado,-8.065091,-34.909180,E,Ocasional/Ped.
+504,Estrada de Belém,Rua Fonseca de Oliveira,Campo Grande,-8.033870,-34.885821,E,Veic.c/Ped.Ocas.
+505,Rua São Nicolau,Rua Hélio Brandão,Ipsep,-8.106765,-34.925860,E/Git,Veicular
+506,Av. Dr. José Rufino,Próximo ao SENAI,Areias,-8.089689,-34.933992,E,Ocasional/Ped.
+507,Av. São Paulo,Rua Leandro Barreto,Jd. São Paulo,-8.079773,-34.940728,E/Git,Veic.C/Ped.Paral.
+508,Rua Francisco Alves,Praça Miguel de Cervante,Ilha do Leite,-8.067278,-34.893830,E,Veicular
+509,Av. Sul,Rua Padre José de Sá Leitão,São José,-8.075179,-34.889954,E/Git,Veicular
+510,Rua Imperial,Travessa do Raposo,São José,-8.074596,-34.890171,E/Git,Veicular
+511,Rua Imperial,Travessa do Azevedo,São José,-8.074426,-34.889726,E/Git,Veicular
+512,Av. Rio Largo,Av. Doze de Junho,Ibura,-8.112915,-34.953042,E/Git,Veic.C/Ped.Ocas.
+513,Rua Conselheiro Teodoro,Rua Tomás Gonzaga,Cordeiro,-8.049306,-34.915263,E,Veic.C/Ped.Ocas.
+514,Av. Beberibe,Em frente ao Nº 4277,Porto da Madeira,-8.004510,-34.895100,E,Ocasional/Ped.
+515,Rua Benfica,Praça Euclides da Cunha,Madalena,-8.058326,-34.904122,E/Git,Veicular
+516,Praça do Derby,Estação BRT Derby (Sub/Cid),Derby,-8.056757,-34.899417,E/Git,Ocasional/Ped.
+517,Av. Beberibe,Em frente ao Instituto Sto. Amaro,Porto da Madeira,-8.007460,-34.890337,E,Ocasional/Ped.
+518,Av. Dois Rios,Rua Jornalista Edson Regis,Ibura,-8.109113,-34.935269,E/Git,Veicular
+519,Rua Prof. Eduardo Wanderley Filho,Em frente ao Nº 110,Afogados,-8.082546,-34.907681,E,Ocasional/Ped.
+520,Rua Acadêmico Hélio Ramos,Rua Amaro Poroca,Cidade Universitária ,-8.049597,-34.954629,E,Veic.c/Ped.Ocas.
+521,Rua Conselheiro Portela,Rua do Futuro,Graças,-8.043868,-34.898305,E/Git,Veicular
+522,Av. Coselheiro Rosa e Silva,Rua Antenor Navarro,Rosarinho,-8.036899,-34.901582,E/Git,Veic.C/Ped.Paral.
+523,Av. Cruz Cabugá,Em frente ao Nº 212,Santo Amaro,-8.052469,-34.880509,E,Ocasional/Ped.
+524,Estrada dos Remédios,Rua Inconfidentes,Bongi,-8.070979,-34.908135,E,Ocasional/Ped.
+525,Rua Cosme Viana,Rua 3 de Agosto,Bongi,-8.074565,-34.908909,E/Git,Veicular
+526,Rua Álvares de Azevedo,Rua dos Palmares ,Santo Amaro,-8.048964,-34.887773,E,Veicular
+527,Rua Jean Emile Favre,Rua Francisco Barreto,Ipsep,-8.111191,-34.919728,E,Veic.C/Ped.
+528,Rua Paz,Rua João Carlos Guimarães,Afogados,-8.080049,-34.905238,E/Git,Ocasional/Ped.
+529,Av. Armindo Moura,Ernesto de Souza Leão Rua,Boa Viagem,-8.149344,-34.912376,E/GIt,Ocasional/Ped.
+530,Av. Mascarenhas de Morais,Em Frente a UNIBRATEC,Imbiribeira,-8.127410,-34.915300,E/Git,Ocasional/Ped.
+531,Av. Mascarenhas de Morais,Av. Recife,Imbiribeira,-8.127376,-34.915543,E/Git,Ocasional/Ped.
+532,Av. Mascarenhas de Morais,Rua Dr. Waldir Pessoa,Imbiribeira,-8.090385,-34.908351,E/Git,Veicular
+533,Av. Caxangá,Estrada do Barbalho,Iputinga,-8.039323,-34.941192,E/Git,Veicular
+534,Av. Mascarenhas de Morais,Rua Pampulha,Imbiribeira,-8.110056,-34.912126,E/Git,Veicular
+535,Av. Apipucos,Proxímo Colégio Candido Duarte,Apipucos,-8.020359,-34.939602,E,Ocasional/Ped.
+536,Rua da Regeneração,Rua do Machado,Fundão,-8.020558,-34.888830,E,Veicular
+537,Rua Arquiteto Luiz Nunes,Av. Pinheiros,Imbiribeira,-8.090983,-34.910663,E/Git,Veic.C/Ped.Ocas.
+538,Av. Antônio de Góis,Rua José Mariano Filho,Pina,-8.087182,-34.884907,E/Git,Veic.C/Ped.Paral.
+539,Av. Dr. José Rufino,Rua Dorotéia Vieira,Barro,-8.093115,-34.943245,E,Ocasional/Ped.
+540,Av. Apipucos,Rua Cel.João Batista R. Barros,Apipucos,-8.021102,-34.934164,E,Veicular
+541,Rua Prof. Joaquim Xavier de Brito,Rua Miguel Vieira,Cordeiro,-8.051118,-34.934989,E,Veicular
+542,Rua Padre Carapuceiro,Ent. do Hiper Bompreço,Boa Viagem,-8.116810,-34.902200,E/Git,Ocasional/Ped.
+543,Av. D. João VI( Canal do Jordão ),Rua Antônio Torres Galvão,Boa Viagem,-8.114238,-34.902683,E/Git,Veicular
+544,Rua Félix de Brito,Av. Prof. João Medeiros,Boa Viagem,-8.115377,-34.900496,E/Git,Veicular
+545,Av. Domingos Ferreira,Rua Félix de Brito,Boa Viagem,-8.117400,-34.896473,E/Git,Veicular
+546,Av. Cons. Aguiar,Rua Félix de Brito,Boa Viagem,-8.117851,-34.895593,E/Git,Veicular
+547,Av. Boa Viagem,Rua Félix de Brito,Boa Viagem,-8.118568,-34.894059,E/Git,Veic.C/Ped.Paral.
+548,Av.Boa Viagem,Rua Padre Bernardino Pessoa,Boa Viagem,-8.115285,-34.892210,E/Git,Veic.C/Ped.Paral.
+549,Av. Cons. Aguiar,Rua Prof. José Brandão,Boa Viagem,-8.112921,-34.892678,E/Git,Veicular
+550,Av. Domingos Ferreira,Rua Prof. José Brandão,Boa Viagem,-8.112446,-34.893509,E/Git,Veicular
+551,Rua Félix de Brito,Rua Francisco da Cunha,Boa Viagem,-8.116791,-34.897679,E/Git,Veicular
+552,Praça do Derby,Estação BRT Derby,Derby,-8.056667,-34.899444,E/Git,Ocasional/Ped.
+553,Rua Augusto Calheiros,Rua Emília Torreão,Afogados,-8.081860,-34.908968,E/Git,Ocasional/Ped.
+554,Rua Petronila V. Botelho,Av. Prof. José dos Anjos,Arruda,-8.027809,-34.889798,E,Veicular
+555,Av. Boa Viagem,Rua Antônio Falcão,Boa Viagem,-8.116989,-34.893167,E/Git,Ocasional/Ped.
+556,Rua Cosmorama,Rua Baltazar Passos,Setúbal,-8.142032,-34.911491,E/Git,Veicular
+557,Av. Dr. José Rufino,Rua Dr. Vilas Boas,Barro,-8.092282,-34.937677,E,Veic.C/Ped.Ocas.
+558,Rua Gomes Taborda,Em frente a Esc. Comun.Coração Infantil,Cordeiro,-8.056410,-34.920600,E,Ocasional/Ped.
+559,Av. Beberibe,Rua Côrtes,Porto da Madeira,-8.006012,-34.892094,E,Ocasional/Ped.
+560,Rua Arquiteto Luiz Nunes,Em Frente Escola Pinheiros,Afogados,-8.090085,-34.910495,E/Git,Ocasional/Ped.
+561,Av. Dois Rios,Rua Pintor Agenor Albuquerque,Ibura,-8.110539,-34.936994,E/Git,Veic.C/Ped.Ocas.
+562,Av. Rui Barbosa,Rua das Graças,Graças,-8.047071,-34.900733,E/Git,Ocasional/Ped.
+563,Av. Luis Correia de Brito,Av. Prof. José dos Anjos,Campo Grande,-8.020518,-34.873489,E/Git,Veicular
+564,Rua Jean Emile Favre,Rua Potengi,Ipsep,-8.108570,-34.916722,E,Veicular
+565,Rua Jerônimo Vilela,Rua Dr. Machado,Campo Grande,-8.029414,-34.881878,E,Veicular
+566,Rua Dr. Miguel Vieira Ferreira,Rua Inácio Monteiro,Cordeiro,-8.051208,-34.933048,E,Veic.C/Ped.Ocas.
+567,Rua Des. José Neves,Rua Desembargador João Paes,Boa Viagem,-8.126658,-34.909940,E/Git,Veicular
+568,Av. Caxangá,Av. Afonso Olindense,Várzea,-8.031370,-34.955740,E/Git,Veicular
+569,Rua Aurora Caçote,Próximo a Rua Izabel de Góis,Areias,-8.099306,-34.934257,E/Git,Ocasional/Ped.
+570,Av. Mascarenhas de Morais,Praça Ministro Salgado Filho,Imbiribeira,-8.132517,-34.916380,E,Ocasional/Ped.
+571,Cais de Santa Rita,Acesso ao terminal de ônibus,São José,-8.069236,-34.876124,E/Git,Veicular
+572,Rua 10 de Julho,Rua 20 de Janeiro,Setúbal,-8.134801,-34.913548,E/Git,Veicular
+573,Rua 10 de Julho,Rua Waldemar Nery C. Monteiro,Setúbal,-8.135172,-34.911862,E/Git,Veicular
+574,Rua João Cardoso Aires,Rua Sá e Souza,Setúbal,-8.142274,-34.908591,E/Git,Veicular
+575,Av. Beberibe,Rua Cantora Dalva de Oliveira,Beberibe,-8.006926,-34.890943,E,Veic.C/Ped.Ocas.
+576,Av. Visconde de Albuquerque,Rua Demóstenes de Olinda,Madalena,-8.049327,-34.906468,E/Git,Veicular
+577,Rua Gal. Polidoro,Rua Abatiá,Cidade Universitária,-8.042460,-34.946922,E,Veicular
+578,Rua da Soledade,Rua do Progresso,Boa Vista,-8.058852,-34.889911,E/Git,Veic.C/Ped.Ocas.
+579,Rua da Aurora,Rua do Riachuelo,Boa Vista,-8.060809,-34.880832,E/Git,Veicular
+580, Av. Desembargador José Neves,Saída do Túnel Augusto Lucena sent S/C,Boa Viagem,-8.121374,-34.909356,E/DIG,Ocasional/Ped.
+581,Av. Maria Irene,Alberto Lundgren, Rua,Jordão,-8.137056,-34.936962,E/Git,Veicular
+582,Cais de Santa Rita,Em frente ao Edf. Pier Maurício de Nassau S/C,São José,-8.071584,-34.877446,E/Git,Ocasional/Ped.
+583,Cais de Santa Rita,Em frente ao Edf. Pier Maurício de Nassau C/S,São José,-8.071508,-34.877486,E/Git,Ocasional/Ped.
+584,Av. Maria Irene,Próximo a Rua Cafarnaum,Jordão,-8.140728,-34.929391,E/Git,Ocasional/Ped.
+585,Rua Leonardo Bezerra Cavalcanti,Rua Jornal do Commércio,Casa Forte,-8.037385,-34.913637,E/Git,Veicular
+586,Rua Delmiro Gouveia,Em frente ao Prédio da CHESF,San Martin,-8.063632,-34.930486,E,Ocasional/Ped.
+587,Av. Norte Miguel Arraes de Alencar,Praça General Abreu e Lima,Santo Amaro,-8.048290,-34.876001,E/Git,Veicular
+588,Rua Manuel de Medeiros,Estrada dos Pintos,Dois Irmãos,-8.016799,-34.951307,E/Git,Veicular
+589,Rua Odete Monteiro,Estevão Francisco da Costa, Rua Prof.,Torre,-8.047178,-34.918722,E/Git,Veicular
+590,Rua Benfica,Praça Euclides da Cunha,Madalena,-8.058701,-34.902706,E/Git,Veicular
+591,Av Caxangá ,Rua Manoel Moreira,Caxangá,-8.049905,-34.922193,E/Git,Veicular
+592,Av. Dom João VI,Saída do estacionamento do Shopping S/C,Boa Viagem,-8.118592,-34.907107,E/Git,Ocasional/Ped.
+593,Estrada do Encanamento,Estrada das Ubaias,Casa Amarela,-8.030341,-34.919003,E/Git,Veicular
+594,Av. Dois Rios,Em frente ao Nº 110,Ibura,-8.109820,-34.936173,E/Git,Ocasional/Ped.
+595,Rua Joaquim Nabuco,Rua Monsenhor Ambrozino Leite,Graças,-8.052665,-34.901092,E/Git,Veicular
+596,Av. Norte Miguel Arraes de Alencar,Em frente ao nº 7123,Alto do Mandu,-8.018460,-34.928500,E,Ocasional/Ped.
+597,Rua Odete Monteiro,Rua Dr. João Lacerda,Cordeiro,-8.045478,-34.921760,E,Ocasional/Ped.
+598,Rua da Harmonia,Rua Major Nereu Guerra,Casa Amarela,-8.026241,-34.913430,E/Git,Veicular
+599,Av. Recife,Em frente ao Conj. Inês Andeazza,Caçote,-8.097522,-34.928591,E/Git,Ocasional/Ped.
+600,Rua Monsenhor Ambrozino Leite,Rua das Pernambucanas,Graças,-8.050878,-34.901050,E/Git,Veicular
+601,Rua José Bonifacio,Rua José de Holanda,Torre,-8.044731,-34.907491,E/Git,Ocasional/Ped.
+602,Rua Pe. Lemos,Rua Visconde de Taunay,Casa Amarela,-8.024301,-34.917945,E,Veic.C/Ped.Ocas.
+603,Av. Guararapes,Estação BRT Guararapes, (Sub/Cid),Santo Antonio,-8.063384,-34.879344,E/Git,Pedestre
+604,Av. Guararapes,Estação BRT Guararapes, (Cid/Sub),Santo Antonio,-8.063569,-34.878803,E/Git,Pedestre
+605,Av Caxangá ,Estação BRT Riacho Cavoco (Cid/Sub),Iputinga,-8.036393,-34.946281,E/Git,Ocasional/Ped.
+606,Av Caxangá ,Estação BRT Pq. Do Cordeiro (Sub/Cid),Cordeiro,-8.046407,-34.928610,E/Git,Ocasional/Ped.
+607,Av Caxangá ,Estação BRT Caiara, (Cid/Sub),Iputinga,-8.043293,-34.933760,E/Git,Ocasional/Ped.
+608,Av Caxangá ,Estação BRT Riacho Cavoco (Sub/Cid),Iputinga,-8.036567,-34.946324,E/Git,Pedestre
+609,Av Caxangá ,Estação BRT Eng. Poeta, (Cid/Sub),Brasilit,-8.034399,-34.949951,E/Git,Ocasional/Ped.
+610,Av Caxangá ,Estação BRT Caiara, (Sub/Cid),Iputinga,-8.043459,-34.933822,E/Git,Ocasional/Ped.
+611,Rua 21 de Abril,Proximo a Rua Bezerra da Palma,Mustardinha,-8.076367,-34.913519,E,Ocasional/Ped.
+612,Estrada de Belém,Próx. a Rua São Félix,Campo Grande,-8.032265,-34.879187,E,Ocasional/Ped.
+613,Rua Des. Goes Cavalcante,Próx a Rua Albino Meira,Parnamirim,-8.031017,-34.908528,E/Git,Ocasional/Ped.
+614,Av. 17 de Agosto,Av. Flor de Santana,Santana,-8.035525,-34.912678,E/Git,Veicular
+615,Av. Dr. José Rufino,Em frente Ao Nº 2673,Barro,-8.092823,-34.946131,E,Ocasional/Ped.
+616,Av. Recife,Em frente ao Nº 2843(Aeroporto/CEASA),Vila do Ipsep,-8.112691,-34.926312,E/Git,Ocasional/Ped.
+617,Av. Recife,Em frente ao Hospital Geral de Areias,Caçote,-8.100470,-34.928072,E/Git,Ocasional/Ped.
+618,Av. Recife,Em frente ao Conj. Inês Andreasa,Caçote,-8.097504,-34.928465,E/Git,Ocasional/Ped.
+619,Av. Recife,Em frente ao nº 727,Areias,-8.092766,-34.929158,E/Git,Ocasional/Ped.
+620,Av. Recife,Av. Tapajós,Areias,-8.090861,-34.929408,E/Git,Veic.C/Ped.Ocas.
+621,Av. Recife,Lado oposto aoSemáforo nº 461,Areias,-8.089031,-34.929653,E/Git,Ocasional/Ped.
+622,Rua da Regeneração,Aproximação da Av. Beberibe,Água Fria,-8.018819,-34.892932,E,Ocasional/Ped.
+623,Rua Carlos Gomes,Rua Ricardo Salazar,Prado,-8.057961,-34.910720,E/Git,Veicular
+624,Av. Visc. de Suassuna ,Em frente ao nº 500,Boa Vista,-8.052592,-34.886268,E,Ocasional/Ped.
+625,Av. Masc. de Morais,Lado oposto à Rua Professor Aurélio de Castro Cavalcanti ,Imbiribeira,-8.139774,-34.917560,E,Ocasional/Ped.
+626,Av. Masc. de Morais,Próximo à Rua Professor Aurélio de Castro Cavalcanti ,Imbiribeira,-8.139507,-34.917362,E,Ocasional/Ped.
+627,Av. Cruz Cabugá,Em frente ao nº 665,Santo Amaro,-8.048978,-34.878004,E/Git,Ocasional/Ped.
+628,Rua Benfica,Rua Demócrito de Souza Filho,Madalena,-8.058146,-34.906144,E/Git,Veicular
+629,Rua Benfica,Rua Arlindo Gouveia,Madalena,-8.057949,-34.904100,E/Git,Veicular
+630,Rua Conde do Irajá,Av. Beira Rio,Torre,-8.045639,-34.904331,E/Git,Veicular
+631,Av. Masc. de Morais,Rua Noruega,Imbiribeira,-8.104908,-34.911083,E/Git,Veicular
+632,Rua Arquiteto Luiz Nunes,Em Frente a Escola Anita Garibaldi,Imbiribeira,-8.093749,-34.911329,E/Git,Ocasional/Ped.
+633,Rua Arquiteto Luiz Nunes,Rua Miss. Joel Carlson,Imbiribeira,-8.096028,-34.911796,E/Git,Veicular
+634,Rua Arquiteto Luiz Nunes,Av. Eng. Alves de Souza,Imbiribeira,-8.098032,-34.912281,E/Git,Veic.C/Ped.Ocas.
+635,Rua Arquiteto Luiz Nunes,Em Frente ao N° 285,Imbiribeira,-8.101684,-34.912871,E/Git,Ocasional/Ped.
+636,Rua Paris,Rua Jean Emile Favre,Ipsep,-8.105941,-34.913711,E/Git,Veicular
+637,Rua Arquiteto Luiz Nunes,Próx. Ao N° 476,Imbiribeira,-8.104179,-34.913319,E/Git,Ocasional/Ped.
+638,Av. Afonso Olindense,Rua Rodrigues Ferreira,Várzea,-8.033320,-34.955170,E/Git,Veic.C/Ped.
+639,Av. Dom João VI,Após a Rua Soldado Sinésio Aragão C/S,Boa Viagem,-8.118480,-34.907689,E/Git,Ocasional/Ped.
+640,Av. Gal. Mac. Arthur,Rua Sgt Silvino de Macedo,Imbiribeira,-8.110396,-34.906276,E/Git,Veicular
+641,Rua Uriel de Holanda,Em frente a Esc. Est. Pe. Nércio Rodrigues,Linha do Tiro,-8.008529,-34.904465,E,Ocasional/Ped.
+642,Rua Jeronimo Vilela,Prof. José dos Anjos,Campo Grande,-8.024491,-34.882955,E,Veicular
+643,Av. Norte Miguel Arraes de Alencar,Rua Gomes Coutinho,Tamarineira,-8.026861,-34.904560,E/Git,Veicular
+644,Rua Barão de Souza Leão,Rua 20 de Janeiro,Imbiribeira,-8.133081,-34.913173,E/Git,Veic.C/Ped.Paral.
+645,Av. Mauricio de Nassau,Em frente ao Hospital Fundação Altino Ventura,Iputinga,-8.036300,-34.936960,E,Ocasional/Ped.
+646,Av. 17 de Agosto,Rua Engenheiro Oscar Ferreira,Casa Forte,-8.030863,-34.924507,E/Git,Veicular
+647,Estrada do Arraial,EEm frente ao Nº 4715,Casa Amarela,-8.027890,-34.924095,E/Git,Ocasional/Ped.
+648,Rua Antonio Falcão,Rua Gal. Edson A. Ramalho,Boa Viagem,-8.113374,-34.900106,E/Git,Veicular
+649,Rua João Tude de Melo,Rua Virgínia Loreto,Parnamirim,-8.035838,-34.909644,E/Git,Veicular
+650,Av. Gov. Agamenon Magalhães,Em frente ao Hospital da Restauração,Derby,-8.054795,-34.897674,E/Git,Ocasional/Ped.
+651,Rua João Sales,Av. Prof. Antônio Coelho,Cidade Universitária,-8.039950,-34.944695,E/Git,Veic.C/Ped.
+652,Av. Mário Álvares Pereirade Lyra,Rua Mauricéa,Iputinga,-8.046996,-34.940548,E/Git,Veic.C/Ped.
+653,Rua Estado de Israel,Rua Lins Petit,Ilha do Leite,-8.062788,-34.895284,E/Git,Veicular
+654,Av. São Paulo,Rua Construtor Luiz Carvalhedo,Jd. São Paulo,-8.082019,-34.939725,E/Git,Veic.C/Ped.
+655,Estrada da Ubaias,Rua Conselheiro Nabuco,Casa Amarela,-8.029123,-34.917341,E/Git,Veic.C/Ped.
+656,Av. João de Barros,Rua da Hora,Espinheiro,-8.042068,-34.891063,E/Git,Veicular
+657,Av Herculano Bandeira ,Rua Nogueira de Souza,Pina,-8.085877,-34.888019,E/Git,Veicular
+658,Av. República Árabe Unida,Rua Nogueira de Souza,Pina,-8.086776,-34.888969,E/Git,Veicular
+659,Rua Manoel de Brito,Av. República Árabe Unida,Pina,-8.087144,-34.888434,E/Git,Ocasional/Ped.
+660,Av. Herculano Bandeira,Rua Arquiteto Augusto Reinaldo,Pina,-8.085393,-34.888464,E/Git,Veicular
+661,Av. Saturnino de Brito,Largo do Cabanga,Cabanga,-8.079534,-34.892795,E/Git,Ocasional/Ped.
+662,Largo do Cabanga,Sentido Boa Viagem (Pista Leste),Cabanga,-8.080363,-34.892198,E/Git,Ocasional/Ped.
+663,Av. Boa Viagem,Rua Henrique Capitulino,Boa Viagem,-8.110297,-34.889290,E/Git,Veic.C/Ped.Paral.
+664,Av. João de Barros,Rua Arthur Azevedo,Encruzilhada,-8.037775,-34.891463,E/Git,Veic.C/Ped.Paral.
+665,Av. Norte Miguel Arraes de Alencar,Rua Alfredo de Castro,Encruzilhada,-8.039094,-34.890392,E/Git,Veic.C/Ped.Paral.
+666,Rua Castro Alves,Rua José de Sá Carneiro,Encruzilhada,-8.037776,-34.889820,E/Git,Veicular
+667,Av. General Mac Arthur,Sob a Estação do Metrô Antônio Falcão,Imbiribeira,-8.109476,-34.909099,E/Git,Ocasional/Ped.
+668,Rua Floriano Peixoto,Ao lado da Casa da Cultura,São José,-8.065816,-34.882460,E/Git,Ocasional/Ped.
+669,Av. Dom João VI,Rua José da Silva Lucena,Boa Viagem,-8.115932,-34.904450,E/Git,Ocasional/Ped.
+670,Av. Dom João VI,Rua Padre Carapuceiro,Boa Viagem,-8.115911,-34.903887,E/Git,Ocasional/Ped.
+671,Av. Norte Miguel Arraes de Alencar,Rua Cel. João Batista do Rêgo Barros ,Macaxeira,-8.016282,-34.930492,E/Git,Veic.C/Ped.Paral.
+672,Av. Gov. Agamenon Magalhães,Rua Dr. João Asfora,ilha do Leite,,,E/Git,Veic.C/Ped.Paral.
+673,Av. Gal. Mac. Arthur,Em Frente ao Le Parc Residencial Resort,Imbiribeira,,,E/Git,Pedestre
